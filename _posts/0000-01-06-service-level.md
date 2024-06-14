@@ -1,6 +1,6 @@
 ---
 layout: slide
-title:
+title: ""
 ---
 
 ## How to define service level in a supply chain ?
