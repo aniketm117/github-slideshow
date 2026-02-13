@@ -1,8 +1,8 @@
 ---
 layout: slide
-title: System of Particles and Rotational Motion
+title: Rotational Motion
 ---
 
-#### The conservation laws
+#### The System of Particles and conservation laws
 
 One of the better chapters to tackle questions. Requires confidence on calculation and solution-conception.
