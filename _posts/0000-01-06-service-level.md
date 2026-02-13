@@ -1,12 +1,8 @@
 ---
 layout: slide
-title: ""
+title: System of Particles and Rotational Motion
 ---
 
-## How to define service level in a supply chain ?
+#### The conservation laws
 
-Following are ratios
-
-1. Number of successful orders / sum of all orders placed
-2. Products in successful orders/ sum of products in all the orders placed
-3. Number of on-time orders (delivered within expected lead time) / number of all outgoing orders
+One of the better chapters to tackle questions. Requires confidence on calculation and solution-conception.
